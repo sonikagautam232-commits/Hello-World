@@ -17,3 +17,10 @@ This project demonstrates how to run and manage the program, including the tools
 - `data.csv` — Example dataset (if applicable)
 - `README.md` — Project documentation
 - Additional scripts or resources as needed
+
+## Notes 
+- `footnotes.dox` — Extra information about process
+
+## Pictures 
+- `art.jpe` — Rainbow Butterfly
+- `nepal-himal.jpeg` - Valley in Nepal
