@@ -1,22 +1,14 @@
 # Hello-World-
-My first practice repository”
-# Project Title
-A clear and descriptive title for your project.
+My first practice repository
+# Sonika's Practice 
+This is just an example
 
 ## Description
-This project demonstrates how to run and manage the program, including the tools used, files included, and any additional information helpful for users or contributors.
+This project demonstrates how to write a simple yet effective repository
 
 ## Tools Used
-- Python
-- Visual Studio Code
+- Word
 - Git / GitHub
-- Any required libraries (NumPy, Pandas, etc.)
-
-## Files Used
-- `main.py` — Main program file
-- `data.csv` — Example dataset (if applicable)
-- `README.md` — Project documentation
-- Additional scripts or resources as needed
 
 ## Notes 
 - `footnotes.dox` — Extra information about process
